@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/baobot26/leet_submit/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Math
+|  |
+| ------- |
+| [3830-find-closest-person](https://github.com/baobot26/leet_submit/tree/master/3830-find-closest-person) |
 <!---LeetCode Topics End-->
