@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/baobot26/leet_submit/tree/master/0002-add-two-numbers) |
 | [3830-find-closest-person](https://github.com/baobot26/leet_submit/tree/master/3830-find-closest-person) |
 ## Tree
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/baobot26/leet_submit/tree/master/0792-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/baobot26/leet_submit/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/baobot26/leet_submit/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
