@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/baobot26/leet_submit/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/baobot26/leet_submit/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/baobot26/leet_submit/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/baobot26/leet_submit/tree/master/0001-two-sum) |
 | [0792-binary-search](https://github.com/baobot26/leet_submit/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
