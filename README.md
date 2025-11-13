@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/baobot26/leet_submit/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/baobot26/leet_submit/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1552-build-an-array-with-stack-operations](https://github.com/baobot26/leet_submit/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/baobot26/leet_submit/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/baobot26/leet_submit/tree/master/2058-concatenation-of-array) |
 ## Binary Search
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/baobot26/leet_submit/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/baobot26/leet_submit/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/baobot26/leet_submit/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/baobot26/leet_submit/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
