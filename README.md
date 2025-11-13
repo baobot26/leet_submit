@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/baobot26/leet_submit/tree/master/0001-two-sum) |
+| [0287-find-the-duplicate-number](https://github.com/baobot26/leet_submit/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/baobot26/leet_submit/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/baobot26/leet_submit/tree/master/0792-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/baobot26/leet_submit/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/baobot26/leet_submit/tree/master/0792-binary-search) |
 ## Linked List
 |  |
@@ -72,9 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/baobot26/leet_submit/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/baobot26/leet_submit/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
