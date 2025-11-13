@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/baobot26/leet_submit/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/baobot26/leet_submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/baobot26/leet_submit/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/baobot26/leet_submit/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/baobot26/leet_submit/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/baobot26/leet_submit/tree/master/0792-binary-search) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/baobot26/leet_submit/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/baobot26/leet_submit/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/baobot26/leet_submit/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
