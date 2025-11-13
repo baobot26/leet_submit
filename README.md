@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/baobot26/leet_submit/tree/master/0001-two-sum) |
+| [0485-max-consecutive-ones](https://github.com/baobot26/leet_submit/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/baobot26/leet_submit/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/baobot26/leet_submit/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/baobot26/leet_submit/tree/master/2058-concatenation-of-array) |
