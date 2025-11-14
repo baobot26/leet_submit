@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/baobot26/leet_submit/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/baobot26/leet_submit/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/baobot26/leet_submit/tree/master/2058-concatenation-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/baobot26/leet_submit/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/baobot26/leet_submit/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/baobot26/leet_submit/tree/master/2058-concatenation-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/baobot26/leet_submit/tree/master/2551-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/baobot26/leet_submit/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/baobot26/leet_submit/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/baobot26/leet_submit/tree/master/0287-find-the-duplicate-number) |
+| [2551-apply-operations-to-an-array](https://github.com/baobot26/leet_submit/tree/master/2551-apply-operations-to-an-array) |
 ## Counting Sort
 |  |
 | ------- |
