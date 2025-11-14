@@ -80,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/baobot26/leet_submit/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/baobot26/leet_submit/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/baobot26/leet_submit/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/baobot26/leet_submit/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/baobot26/leet_submit/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/baobot26/leet_submit/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/baobot26/leet_submit/tree/master/0203-remove-linked-list-elements) |
 ## Sliding Window
 |  |
