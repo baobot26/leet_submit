@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/baobot26/leet_submit/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/baobot26/leet_submit/tree/master/1236-n-th-tribonacci-number) |
+| [2507-number-of-common-factors](https://github.com/baobot26/leet_submit/tree/master/2507-number-of-common-factors) |
 | [3830-find-closest-person](https://github.com/baobot26/leet_submit/tree/master/3830-find-closest-person) |
 ## Tree
 |  |
@@ -196,8 +197,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/baobot26/leet_submit/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/baobot26/leet_submit/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/baobot26/leet_submit/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/baobot26/leet_submit/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
