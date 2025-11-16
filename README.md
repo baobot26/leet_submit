@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/baobot26/leet_submit/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/baobot26/leet_submit/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/baobot26/leet_submit/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/baobot26/leet_submit/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/baobot26/leet_submit/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/baobot26/leet_submit/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/baobot26/leet_submit/tree/master/0020-valid-parentheses) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/baobot26/leet_submit/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/baobot26/leet_submit/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/baobot26/leet_submit/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/baobot26/leet_submit/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/baobot26/leet_submit/tree/master/0485-max-consecutive-ones) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/baobot26/leet_submit/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/baobot26/leet_submit/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/baobot26/leet_submit/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
