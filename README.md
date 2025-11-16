@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/baobot26/leet_submit/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/baobot26/leet_submit/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/baobot26/leet_submit/tree/master/1236-n-th-tribonacci-number) |
 | [3830-find-closest-person](https://github.com/baobot26/leet_submit/tree/master/3830-find-closest-person) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/baobot26/leet_submit/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/baobot26/leet_submit/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/baobot26/leet_submit/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/baobot26/leet_submit/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
