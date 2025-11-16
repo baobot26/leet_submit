@@ -3,13 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        heap = []
-        for i in range(m):
-            heapq.heappush(heap, nums1[i])
-        for i in range(n):
-            heapq.heappush(heap, nums2[i])
-        for i in range(m + n):
-            nums1[i] = heap[0]
-            heapq.heappop(heap)
+        midx = m - 1
+        nidx = n - 1
+        right = m + n - 1
+        while nidx >= 0:
+            if midx >= 0 and nums1[midx] > nums2[nidx]:
+                nums1[right] = nums1[midx]
+                midx -= 1
+            else:
+                nums1[right] = nums2[nidx]
+                nidx -= 1
+            right -= 1
         
         
