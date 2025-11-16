@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/baobot26/leet_submit/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/baobot26/leet_submit/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/baobot26/leet_submit/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/baobot26/leet_submit/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/baobot26/leet_submit/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/baobot26/leet_submit/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/baobot26/leet_submit/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/baobot26/leet_submit/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/baobot26/leet_submit/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/baobot26/leet_submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/baobot26/leet_submit/tree/master/0283-move-zeroes) |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/baobot26/leet_submit/tree/master/1236-n-th-tribonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/baobot26/leet_submit/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/baobot26/leet_submit/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
