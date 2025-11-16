@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/baobot26/leet_submit/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/baobot26/leet_submit/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/baobot26/leet_submit/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/baobot26/leet_submit/tree/master/1236-n-th-tribonacci-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/baobot26/leet_submit/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/baobot26/leet_submit/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/baobot26/leet_submit/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/baobot26/leet_submit/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/baobot26/leet_submit/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/baobot26/leet_submit/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/baobot26/leet_submit/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/baobot26/leet_submit/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
