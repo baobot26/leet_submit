@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/baobot26/leet_submit/tree/master/1236-n-th-tribonacci-number) |
 | [3830-find-closest-person](https://github.com/baobot26/leet_submit/tree/master/3830-find-closest-person) |
 ## Tree
 |  |
@@ -155,9 +156,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/baobot26/leet_submit/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/baobot26/leet_submit/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
