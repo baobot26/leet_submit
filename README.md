@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/baobot26/leet_submit/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/baobot26/leet_submit/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
 | [3830-find-closest-person](https://github.com/baobot26/leet_submit/tree/master/3830-find-closest-person) |
 ## Tree
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/baobot26/leet_submit/tree/master/0020-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/baobot26/leet_submit/tree/master/1552-build-an-array-with-stack-operations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
