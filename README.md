@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/baobot26/leet_submit/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/baobot26/leet_submit/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/baobot26/leet_submit/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/baobot26/leet_submit/tree/master/1236-n-th-tribonacci-number) |
 | [3830-find-closest-person](https://github.com/baobot26/leet_submit/tree/master/3830-find-closest-person) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/baobot26/leet_submit/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/baobot26/leet_submit/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/baobot26/leet_submit/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/baobot26/leet_submit/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/baobot26/leet_submit/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/baobot26/leet_submit/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/baobot26/leet_submit/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
