@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/baobot26/leet_submit/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 | [3830-find-closest-person](https://github.com/baobot26/leet_submit/tree/master/3830-find-closest-person) |
 ## Tree
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/baobot26/leet_submit/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/baobot26/leet_submit/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/baobot26/leet_submit/tree/master/0203-remove-linked-list-elements) |
+| [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -152,8 +154,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/baobot26/leet_submit/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/baobot26/leet_submit/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
