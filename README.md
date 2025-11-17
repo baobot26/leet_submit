@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/baobot26/leet_submit/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/baobot26/leet_submit/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/baobot26/leet_submit/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/baobot26/leet_submit/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/baobot26/leet_submit/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/baobot26/leet_submit/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/baobot26/leet_submit/tree/master/2058-concatenation-of-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/baobot26/leet_submit/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/baobot26/leet_submit/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/baobot26/leet_submit/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/baobot26/leet_submit/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/baobot26/leet_submit/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/baobot26/leet_submit/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/baobot26/leet_submit/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/baobot26/leet_submit/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/baobot26/leet_submit/tree/master/0287-find-the-duplicate-number) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/baobot26/leet_submit/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/baobot26/leet_submit/tree/master/2551-apply-operations-to-an-array) |
 ## Counting Sort
 |  |
