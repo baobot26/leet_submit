@@ -207,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/baobot26/leet_submit/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/baobot26/leet_submit/tree/master/2507-number-of-common-factors) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/baobot26/leet_submit/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
