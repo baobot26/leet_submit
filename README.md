@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/baobot26/leet_submit/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/baobot26/leet_submit/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/baobot26/leet_submit/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/baobot26/leet_submit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/baobot26/leet_submit/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/baobot26/leet_submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/baobot26/leet_submit/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/baobot26/leet_submit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/baobot26/leet_submit/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/baobot26/leet_submit/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/baobot26/leet_submit/tree/master/0792-binary-search) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/baobot26/leet_submit/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/baobot26/leet_submit/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/baobot26/leet_submit/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/baobot26/leet_submit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/baobot26/leet_submit/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/baobot26/leet_submit/tree/master/0287-find-the-duplicate-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/baobot26/leet_submit/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
